@@ -1,0 +1,6 @@
+image: contiamo/jruby
+
+script:
+    - gem install rspec
+    - rspec
+
